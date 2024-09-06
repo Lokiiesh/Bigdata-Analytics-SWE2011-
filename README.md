@@ -8,6 +8,6 @@ The AverageMovieRatings contains the mapreduce program.
 
 For dataset(ratings.csv) refer,https://grouplens.org/datasets/movielens/20m/
 
-The Output file consists of the output of the mapreduce program.
+The Output file consists of the output of the mapreduce program(userid,average of the rating)
 
 The file(Lokesh)consists the screenshots of code,implementation and output.
